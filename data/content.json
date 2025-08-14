@@ -10,7 +10,7 @@
     "title": "AI-Powered SaaS Developer | Full Stack Engineer",
     "location": "Ventura, California, USA",
     "bio": "Developer with 18+ years of experience creating AI-integrated SaaS products and MVPs. I specialize in React.js, Node.js, Python, and serverless cloud architecture, delivering modern web solutions with speed, security, and scale.",
-    "avatar": "custom-resume-site-temp/assets/images/profile.jpg"
+    "avatar": "/assets/images/profile.jpg"
   },
   "navbar": {
     "logo": "&lt;ZM/&gt;",
@@ -479,13 +479,6 @@
           "value": "github.com/zachary107c",
           "isLink": true,
           "url": "https://github.com/zachary107c"
-        },
-        {
-          "icon": "briefcase",
-          "title": "Upwork",
-          "value": "upwork.com/freelancers/~01c3b0802df106c9fe",
-          "isLink": true,
-          "url": "https://www.upwork.com/freelancers/~01c3b0802df106c9fe"
         }
       ],
       "availability": {

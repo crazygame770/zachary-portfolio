@@ -1,347 +1,539 @@
 {
-    "meta": {
-      "title": "Ricardo Martínez López | Full Stack Developer",
-      "description": "Ricardo Martínez López - Senior Full Stack Developer specializing in React.js, Node.js, AWS and Python",
-      "themeColor": "blue",
-      "accentColor": "indigo"
-    },
-    "profile": {
-      "name": "Ricardo Martínez López",
-      "title": "Senior Full Stack Developer",
-      "location": "Valencia, Spain",
-      "bio": "Full Stack Developer with 9 years of experience in modern web development, specializing in React.js, Node.js and cloud architecture. Expert in developing scalable applications and implementing serverless solutions with AWS.",
-      "avatar": "custom-resume-site-temp/assets/images/profile.jpeg"    
-    },
-    "navbar": {
-      "logo": "&lt;RM/&gt;",
-      "links": [
-        {"text": "About", "url": "#about", "ariaLabel": "About section"},
-        {"text": "Experience", "url": "#experience", "ariaLabel": "Experience section"},
-        {"text": "Projects", "url": "#projects", "ariaLabel": "Projects section"},
-        {"text": "Skills", "url": "#skills", "ariaLabel": "Skills section"},
-        {"text": "Contact", "url": "#contact", "ariaLabel": "Contact section"}
-      ]
-    },
-    "hero": {
-      "greeting": "Hello, I'm",
-      "description": "Specializing in <span class=\"text-blue-600 dark:text-blue-400 font-medium\">React.js</span>, <span class=\"text-blue-600 dark:text-blue-400 font-medium\">Node.js</span>, <span class=\"text-blue-600 dark:text-blue-400 font-medium\">AWS</span> and <span class=\"text-blue-600 dark:text-blue-400 font-medium\">Python</span> with 9 years of professional experience.",
-      "cta": {
-        "primary": {
-          "text": "Get in touch",
-          "url": "#contact",
-          "ariaLabel": "Contact me"
-        },
-        "secondary": {
-          "text": "View Projects",
-          "url": "#projects",
-          "ariaLabel": "View my projects"
-        }
+  "meta": {
+    "title": "Zachary Nicholas Matsuk | Full Stack Developer",
+    "description": "Zachary Nicholas Matsuk – AI-Powered SaaS Developer and Senior Full Stack Engineer with 18+ years of experience in React.js, Node.js, Python, and AWS",
+    "themeColor": "blue",
+    "accentColor": "indigo"
+  },
+  "profile": {
+    "name": "Zachary Nicholas Matsuk",
+    "title": "Senior Full Stack Developer",
+    "location": "Ventura, California, USA",
+    "bio": "Full Stack Developer with 18+ years of experience building scalable, AI-integrated SaaS platforms and MVPs. Expert in React.js, Node.js, Python, and cloud architecture, delivering fast, clean, and secure code for clients worldwide.",
+    "avatar": "custom-resume-site-temp/assets/images/profile.jpg"
+  },
+  "navbar": {
+    "logo": "&lt;RM/&gt;",
+    "links": [
+      {
+        "text": "About",
+        "url": "#about",
+        "ariaLabel": "About section"
       },
-      "terminal": {
-        "lines": [
-          "Hello World!",
-          "I build scalable web applications",
-          "with modern technologies"
-        ]
+      {
+        "text": "Experience",
+        "url": "#experience",
+        "ariaLabel": "Experience section"
       },
-      "socialLinks": [
-        {
-          "icon": "github",
-          "url": "#",
-          "ariaLabel": "GitHub profile"
-        },
-        {
-          "icon": "linkedin-in",
-          "url": "#",
-          "ariaLabel": "LinkedIn profile"
-        },
-        {
-          "icon": "at",
-          "url": "#",
-          "ariaLabel": "Email contact"
-        }
-      ]
-    },
-    "about": {
-      "title": "About Me",
-      "description": "Full Stack Developer with 9 years of experience in modern web development, specializing in React.js, Node.js and cloud architecture. Expert in developing scalable applications and implementing serverless solutions with AWS.",
-      "cards": [
-        {
-          "icon": "code",
-          "title": "Frontend Development",
-          "description": "Crafting responsive and intuitive user interfaces with React.js, TypeScript, and modern CSS frameworks."
-        },
-        {
-          "icon": "server",
-          "title": "Backend Architecture",
-          "description": "Building robust and scalable backend systems with Node.js, Express, and cloud-native technologies."
-        },
-        {
-          "icon": "cloud",
-          "title": "Cloud Solutions",
-          "description": "Designing and implementing serverless architectures and infrastructure as code using AWS and modern DevOps practices."
-        }
-      ],
-      "passion": "I'm passionate about creating high-performance web applications with a focus on security, scalability, and exceptional user experience. My approach combines technical expertise with a deep understanding of business requirements."
-    },
-    "experience": {
-      "title": "Work Experience",
-      "description": "My professional journey in the tech industry across various roles and organizations.",
-      "layout": "timeline",
-      "jobs": [
-        {
-          "company": "TechVista Solutions",
-          "location": "Remote | Barcelona, Spain",
-          "position": "Lead Full Stack Engineer",
-          "period": "Mar 2023 – Present",
-          "achievements": [
-            "Enhanced platform stability by implementing comprehensive error tracking, reducing critical incidents by 45% in first quarter",
-            "Spearheading backend migration from monolithic architecture to microservices using Node.js and Kubernetes",
-            "Coordinating with cross-functional teams using Kanban methodology, maintaining continuous communication via Microsoft Teams",
-            "Implemented AWS CloudFormation for infrastructure as code, improving deployment consistency by 80%",
-            "Conducting bi-weekly technical workshops to share knowledge on serverless architecture and AWS best practices"
-          ],
-          "skills": ["React.js", "Node.js", "Kubernetes", "AWS Lambda", "DynamoDB", "GraphQL", "TypeScript"]
-        },
-        {
-          "company": "InnovateSphere",
-          "location": "Remote | Madrid, Spain",
-          "position": "Senior Software Engineer",
-          "period": "Jan 2021 – Feb 2023",
-          "achievements": [
-            "Developed four revenue-driving features for the company's flagship SaaS application, increasing user retention by 32%",
-            "Integrated payment processing systems including Stripe and PayPal, implementing robust error handling and security measures",
-            "Built resilient microservices architecture with RESTful APIs, achieving 99.95% uptime for production systems",
-            "Led technical planning sessions with product managers, translating business requirements into technical specifications"
-          ],
-          "skills": ["React.js", "Express.js", "MongoDB", "PostgreSQL", "Jest", "Cypress", "Redux"]
-        },
-        {
-          "company": "WebForge Digital",
-          "location": "Remote | Valencia, Spain",
-          "position": "Frontend Developer",
-          "period": "Jul 2018 – Dec 2020",
-          "achievements": [
-            "Led UI/UX modernization, migrating legacy Angular application to React.js with a component-based architecture",
-            "Mentored junior development team of 4, establishing code review processes and frontend development standards",
-            "Collaborated with design teams to implement responsive designs that reduced mobile bounce rate by 28%"
-          ],
-          "skills": ["React.js", "Redux", "TypeScript", "SCSS", "Git", "Bitbucket", "Jest"]
-        },
-        {
-          "company": "CodeCraft Services",
-          "location": "Valencia, Spain",
-          "position": "Full-Stack Developer",
-          "period": "May 2016 – Jun 2018",
-          "achievements": [
-            "Maintained consistent client satisfaction rating of 4.8/5 across 25+ projects by delivering clean, well-documented code",
-            "Delivered 20+ web applications from concept to deployment, meeting diverse client requirements and technical specifications",
-            "Achieved Top Developer status within company recognition program for two consecutive years",
-            "Developed and maintained e-commerce platforms with integrated inventory management systems"
-          ],
-          "skills": ["JavaScript", "React.js", "Node.js", "Express.js", "MySQL", "MongoDB", "RESTful APIs"]
-        }
-      ]
-    },
-    "projects": {
-      "title": "Key Projects",
-      "description": "Highlighting some of my most impactful work and technical achievements.",
-      "layout": "featured",
-      "list": [
-        {
-          "icon": "chart-line",
-          "title": "TechVista Platform Reliability Initiative",
-          "description": "As Lead Engineer at TechVista, I orchestrated a complete overhaul of our error handling and monitoring systems. I implemented AWS CloudWatch custom metrics, set up Sentry for error tracking, and created an alerting system using SNS and Lambda functions.",
-          "tags": ["AWS", "CloudWatch", "Lambda", "Sentry", "DevOps"],
-          "metrics": [
-            {
-              "name": "Reduced Critical Incidents",
-              "value": "45%"
-            },
-            {
-              "name": "Mean Time to Resolution",
-              "value": "67%"
-            }
-          ],
-          "featured": true
-        },
-        {
-          "icon": "credit-card",
-          "title": "InnovateSphere Payment Processing System",
-          "description": "Designed and implemented a secure payment processing system that handles over €3.2M in monthly transactions with a 99.99% success rate. The system integrated multiple payment providers and implemented PCI-DSS compliant token handling.",
-          "tags": ["Stripe", "React", "Node.js", "PostgreSQL"],
-          "metrics": [
-            {
-              "name": "Transaction Success Rate",
-              "value": "99.99%"
-            }
-          ],
-          "projectUrl": "#",
-          "repoUrl": "#"
-        },
-        {
-          "icon": "cubes",
-          "title": "WebForge Component Library",
-          "description": "Created a reusable component library that reduced development time for new features by 35%. The library included over 50 customizable UI components with comprehensive documentation and testing.",
-          "tags": ["React", "TypeScript", "Storybook", "SCSS"],
-          "metrics": [
-            {
-              "name": "Development Time Reduction",
-              "value": "35%"
-            }
-          ],
-          "repoUrl": "#"
-        }
-      ]
-    },
-    "skills": {
-      "title": "Skills & Expertise",
-      "description": "A comprehensive overview of my technical skills and professional competencies.",
-      "categories": [
-        {
-          "title": "Frontend Development",
-          "icon": "laptop-code",
-          "layout": "bars",
-          "skills": [
-            {"name": "React.js", "level": "95%"},
-            {"name": "TypeScript", "level": "90%"},
-            {"name": "Redux", "level": "85%"},
-            {"name": "CSS/SCSS", "level": "90%"},
-            {"name": "UI/UX Design", "level": "80%"}
-          ]
-        },
-        {
-          "title": "Backend Development",
-          "icon": "server",
-          "layout": "bars",
-          "skills": [
-            {"name": "Node.js", "level": "95%"},
-            {"name": "Express.js", "level": "90%"},
-            {"name": "Python", "level": "85%"},
-            {"name": "MongoDB", "level": "90%"},
-            {"name": "PostgreSQL", "level": "85%"}
-          ]
-        },
-        {
-          "title": "Cloud & DevOps",
-          "icon": "cloud",
-          "layout": "icons",
-          "skills": [
-            {"name": "AWS", "icon": "aws"},
-            {"name": "Docker", "icon": "docker"},
-            {"name": "Kubernetes", "icon": "dharmachakra"},
-            {"name": "CI/CD", "icon": "infinity"}
-          ]
-        }
-      ],
-      "certifications": {
-        "title": "Certifications",
-        "icon": "award",
-        "list": [
-          "AWS Certified Solutions Architect",
-          "MongoDB Advanced Developer",
-          "Certified Kubernetes Administrator",
-          "React Certification (Meta)",
-          "TypeScript Professional Certification",
-          "Certified Scrum Master"
-        ]
+      {
+        "text": "Projects",
+        "url": "#projects",
+        "ariaLabel": "Projects section"
+      },
+      {
+        "text": "Skills",
+        "url": "#skills",
+        "ariaLabel": "Skills section"
+      },
+      {
+        "text": "Contact",
+        "url": "#contact",
+        "ariaLabel": "Contact section"
+      }
+    ]
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "description": "Specializing in <span class=\"text-blue-600 dark:text-blue-400 font-medium\">React.js</span>, <span class=\"text-blue-600 dark:text-blue-400 font-medium\">Node.js</span>, <span class=\"text-blue-600 dark:text-blue-400 font-medium\">AWS</span> and <span class=\"text-blue-600 dark:text-blue-400 font-medium\">Python</span> with 18+ years of professional experience.",
+    "cta": {
+      "primary": {
+        "text": "Get in touch",
+        "url": "#contact",
+        "ariaLabel": "Contact me"
+      },
+      "secondary": {
+        "text": "View Projects",
+        "url": "#projects",
+        "ariaLabel": "View my projects"
       }
     },
-    "education": {
-      "title": "Education",
-      "schools": [
-        {
-          "name": "Universidad Politécnica de Valencia",
-          "location": "Valencia, Spain",
-          "degree": "Master's Degree",
-          "field": "Computer Engineering",
-          "period": "2014 – 2016",
-          "icon": "graduation-cap",
-          "focusAreas": [
-            "Software Architecture",
-            "Cloud Computing",
-            "Advanced Algorithms",
-            "Distributed Systems"
-          ],
-          "activities": [
-            "Robotics Club Leader",
-            "Regional Finalist, ACM Programming Contest",
-            "Academic Excellence Award for Capstone Project",
-            "Published Research Paper on Distributed Systems"
-          ],
-          "capstoneProject": "Developed a real-time collaboration platform that enabled multiple users to work simultaneously on documents, code, and design files. The project utilized WebSockets for real-time synchronization, implemented operational transformation algorithms for conflict resolution, and featured a responsive React-based UI."
-        }
+    "terminal": {
+      "lines": [
+        "Hello World!",
+        "I build AI-powered SaaS platforms",
+        "and scalable web applications"
       ]
     },
-    "contact": {
-      "title": "Get In Touch",
-      "description": "Let's discuss how we can work together to create exceptional digital experiences.",
-      "form": {
-        "title": "Send a Message",
-        "fields": [
-          {"id": "name", "label": "Name", "type": "text", "required": true},
-          {"id": "email", "label": "Email", "type": "email", "required": true},
-          {"id": "subject", "label": "Subject", "type": "text", "required": true},
-          {"id": "message", "label": "Message", "type": "textarea", "required": true}
-        ],
-        "submitText": "Send Message",
-        "saveToFile": true,
-        "successMessage": "Thank you! Your message has been sent successfully."
+    "socialLinks": [
+      {
+        "icon": "github",
+        "url": "https://github.com/zachary107c",
+        "ariaLabel": "GitHub profile"
       },
-      "info": {
-        "title": "Contact Information",
-        "items": [
+      {
+        "icon": "at",
+        "url": "mailto:zacharynicholasm@gmail.com",
+        "ariaLabel": "Email contact"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Full Stack Developer with 18+ years of experience building AI-powered SaaS platforms and scalable web applications. Specializing in React.js, Node.js, Python, and cloud-native architecture with AWS.",
+    "cards": [
+      {
+        "icon": "code",
+        "title": "Frontend Development",
+        "description": "Creating responsive, user-friendly UIs with React.js, Next.js, and modern design systems — optimized for performance and accessibility."
+      },
+      {
+        "icon": "server",
+        "title": "Backend Architecture",
+        "description": "Engineering scalable APIs and microservices using Node.js and Python, integrating Stripe, authentication, analytics, and AI workflows."
+      },
+      {
+        "icon": "cloud",
+        "title": "Cloud & DevOps",
+        "description": "Deploying secure, serverless infrastructure on AWS with CI/CD, IaC, and monitoring. Experienced in Lambda, S3, ECS, and beyond."
+      }
+    ],
+    "passion": "I'm passionate about shipping clean, scalable code and building meaningful products. I love working with startups and tech teams to turn complex ideas into powerful web applications — especially those integrating AI and automation."
+  },
+  "experience": {
+    "title": "Work Experience",
+    "description": "My professional journey in the tech industry across various roles and organizations.",
+    "layout": "timeline",
+    "jobs": [
+      {
+        "company": "Elios Talent",
+        "location": "Remote | Houston, TX",
+        "position": "Senior Web Developer",
+        "period": "2022 – 2025",
+        "achievements": [
+          "Built an AI-integrated ERP website combining Django and React.js.",
+          "Automated financial reporting and user workflows using Python scripts.",
+          "Integrated Stripe for secure payments and subscription management.",
+          "Led product implementation cycles using Agile with Jira and GitHub.",
+          "Optimized system performance and ensured cross-team alignment."
+        ],
+        "skills": [
+          "React.js",
+          "Django",
+          "Stripe",
+          "Python",
+          "PostgreSQL",
+          "Agile",
+          "CI/CD"
+        ]
+      },
+      {
+        "company": "Freelance Developer (Off-Platform)",
+        "location": "Remote | US & EU",
+        "position": "Full-Stack Developer",
+        "period": "2019 – 2022",
+        "achievements": [
+          "Delivered MVPs and SaaS platforms for startups and agencies.",
+          "Implemented multi-step booking systems with real-time pricing.",
+          "Integrated OpenAI workflows for smart content generation.",
+          "Built secure role-based access systems and analytics dashboards.",
+          "Managed Stripe payments, auth flows, and dashboard UX."
+        ],
+        "skills": [
+          "React.js",
+          "Node.js",
+          "Stripe",
+          "Supabase",
+          "Python",
+          "LangChain",
+          "MongoDB"
+        ]
+      },
+      {
+        "company": "EduTech Innovations",
+        "location": "Remote | Boston, MA",
+        "position": "Senior Web Developer",
+        "period": "2015 – 2019",
+        "achievements": [
+          "Built a live-learning platform powered by AI for all age groups.",
+          "Created responsive UIs using React and Next.js for learners/admins.",
+          "Integrated analytics, charts, and data pipelines for educators.",
+          "Collaborated with cross-functional teams to iterate quickly.",
+          "Built Django APIs for scheduling and content delivery workflows."
+        ],
+        "skills": [
+          "React.js",
+          "Next.js",
+          "Django",
+          "PostgreSQL",
+          "Analytics",
+          "Tailwind CSS"
+        ]
+      },
+      {
+        "company": "Basecamp",
+        "location": "Seattle, WA / Remote",
+        "position": "Web Developer",
+        "period": "2012 – 2015",
+        "achievements": [
+          "Extended existing ERP systems with new business logic.",
+          "Used early versions of React and Spring Boot for web apps.",
+          "Collaborated with cross-functional teams on feature rollouts."
+        ],
+        "skills": [
+          "Java",
+          "Spring Boot",
+          "React.js",
+          "REST APIs",
+          "SQL"
+        ]
+      },
+      {
+        "company": "BrightLogic Corp",
+        "location": "Seattle, WA",
+        "position": "Software Engineer",
+        "period": "2006 – 2012",
+        "achievements": [
+          "Built enterprise financial tools using Java and ASP.NET.",
+          "Migrated legacy desktop software to web applications.",
+          "Strengthened team development using Git and Agile.",
+          "Gained foundational experience with SQL and architecture."
+        ],
+        "skills": [
+          "Java",
+          "ASP.NET",
+          "SQL",
+          "Git",
+          "Agile",
+          "RESTful APIs"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Key Projects",
+    "description": "Highlighting some of my most impactful work and technical achievements.",
+    "layout": "featured",
+    "list": [
+      {
+        "icon": "broom",
+        "title": "Cleaning Services SaaS Platform (Clino)",
+        "description": "Built a vertical SaaS platform for Clino, a cleaning services company, enabling customers to manage service plans, bookings, and payments through a responsive, self-serve dashboard.",
+        "tags": [
+          "React",
+          "Node.js",
+          "Stripe API",
+          "MongoDB",
+          "SCSS"
+        ],
+        "metrics": [
           {
-            "icon": "map-marker-alt",
-            "title": "Location",
-            "value": "Valencia, Spain"
+            "name": "Booking Flow Uptime",
+            "value": "99.9%"
           },
           {
-            "icon": "envelope",
-            "title": "Email",
-            "value": "contact@example.com",
-            "isLink": true,
-            "url": "mailto:contact@example.com"
-          },
-          {
-            "icon": "github",
-            "title": "GitHub",
-            "value": "github.com/username",
-            "isLink": true,
-            "url": "#"
-          },
-          {
-            "icon": "linkedin-in",
-            "title": "LinkedIn",
-            "value": "linkedin.com/in/username",
-            "isLink": true,
-            "url": "#"
+            "name": "Platform Responsiveness",
+            "value": "Mobile-first"
           }
         ],
-        "availability": {
-          "enabled": true,
-          "title": "Availability",
-          "text": "I'm currently available for freelance work and selective full-time opportunities. Feel free to reach out!",
-          "level": "80%",
-          "label": "Current availability: 80%"
-        }
+        "featured": true
+      },
+      {
+        "icon": "brain",
+        "title": "LLM-Powered Multi-Model Chat App",
+        "description": "Built a GPT-style chat app integrating OpenAI, Claude 3, and LLaMA models. Features real-time streaming, tool integrations (e.g. weather), image upload, and a sleek, dark UI.",
+        "tags": [
+          "React",
+          "FastAPI",
+          "OpenAI API",
+          "Claude 3",
+          "LLaMA"
+        ],
+        "metrics": [
+          {
+            "name": "Model Integrations",
+            "value": "3 LLMs"
+          },
+          {
+            "name": "Latency (avg)",
+            "value": "800ms"
+          }
+        ]
+      },
+      {
+        "icon": "hospital-user",
+        "title": "Medical Staffing Dashboard (Harborne Medical)",
+        "description": "Designed an internal React-based admin UI for HR teams to manage NHS shift scheduling, compliance, and locum placement insights. Focused on clarity and ease of use.",
+        "tags": [
+          "React",
+          "Node.js",
+          "UX Design"
+        ],
+        "metrics": [
+          {
+            "name": "Admin Efficiency Gain",
+            "value": "12 hrs/week"
+          }
+        ]
+      },
+      {
+        "icon": "code",
+        "title": "AI Code Assistant – Automated Review Tool",
+        "description": "Developed a lightweight AI-powered tool that analyzes code snippets and provides LLM-based feedback on quality, structure, and possible improvements via a live editor dashboard.",
+        "tags": [
+          "React",
+          "FastAPI",
+          "OpenAI API",
+          "Tailwind CSS",
+          "Docker"
+        ],
+        "metrics": [
+          {
+            "name": "Review Latency",
+            "value": "<1s"
+          },
+          {
+            "name": "UI Mode",
+            "value": "Dark"
+          }
+        ]
       }
-    },
-    "footer": {
-      "logo": "<span class=\"text-blue-400 mr-1\">&lt;</span>RM<span class=\"text-blue-400 ml-1\">/&gt;</span>",
-      "tagline": "Senior Full Stack Developer",
-      "links": [
-        {"text": "About", "url": "#about"},
-        {"text": "Experience", "url": "#experience"},
-        {"text": "Projects", "url": "#projects"},
-        {"text": "Skills", "url": "#skills"},
-        {"text": "Contact", "url": "#contact"}
-      ],
-      "socialLinks": [
-        {"icon": "github", "url": "#", "ariaLabel": "GitHub profile"},
-        {"icon": "linkedin-in", "url": "#", "ariaLabel": "LinkedIn profile"},
-        {"icon": "at", "url": "#", "ariaLabel": "Email contact"}
-      ],
-      "copyright": "© 2025 Ricardo Martínez López. All rights reserved."
+    ]
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "description": "A comprehensive overview of my technical skills and professional competencies.",
+    "categories": [
+      {
+        "title": "Frontend Development",
+        "icon": "laptop-code",
+        "layout": "bars",
+        "skills": [
+          {
+            "name": "React.js",
+            "level": "95%"
+          },
+          {
+            "name": "Next.js",
+            "level": "90%"
+          },
+          {
+            "name": "TypeScript",
+            "level": "90%"
+          },
+          {
+            "name": "Redux",
+            "level": "85%"
+          },
+          {
+            "name": "SCSS/CSS",
+            "level": "90%"
+          }
+        ]
+      },
+      {
+        "title": "Backend Development",
+        "icon": "server",
+        "layout": "bars",
+        "skills": [
+          {
+            "name": "Node.js",
+            "level": "95%"
+          },
+          {
+            "name": "Express.js",
+            "level": "90%"
+          },
+          {
+            "name": "Python",
+            "level": "90%"
+          },
+          {
+            "name": "FastAPI",
+            "level": "85%"
+          },
+          {
+            "name": "MongoDB & PostgreSQL",
+            "level": "90%"
+          }
+        ]
+      },
+      {
+        "title": "AI & Tools",
+        "icon": "robot",
+        "layout": "bars",
+        "skills": [
+          {
+            "name": "OpenAI API",
+            "level": "95%"
+          },
+          {
+            "name": "LangChain",
+            "level": "90%"
+          },
+          {
+            "name": "Stripe API",
+            "level": "90%"
+          },
+          {
+            "name": "Docker",
+            "level": "85%"
+          },
+          {
+            "name": "CI/CD + Serverless",
+            "level": "80%"
+          }
+        ]
+      }
+    ],
+    "certifications": {
+      "title": "Certifications",
+      "icon": "award",
+      "list": [
+        "Bachelor of Science in Computer Science – California State University, Northridge"
+      ]
     }
+  },
+  "education": {
+    "title": "Education",
+    "schools": [
+      {
+        "name": "California State University, Northridge (CSUN)",
+        "location": "Northridge, Los Angeles, CA, USA",
+        "degree": "Bachelor of Science",
+        "field": "Computer Science",
+        "period": "2002 – 2006",
+        "icon": "graduation-cap",
+        "focusAreas": [
+          "Software Development",
+          "Information Systems",
+          "Database Design",
+          "Web Technologies"
+        ],
+        "activities": [
+          "Completed senior software project with live demo at department expo",
+          "Worked part-time in campus IT lab supporting web tools",
+          "Collaborated with peers on early open-source contributions"
+        ],
+        "capstoneProject": "Developed a student registration and course tracking system using Java and MySQL, including admin dashboards and scheduling tools for faculty."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "Let's discuss how we can work together to create exceptional digital experiences.",
+    "form": {
+      "title": "Send a Message",
+      "fields": [
+        {
+          "id": "name",
+          "label": "Name",
+          "type": "text",
+          "required": true
+        },
+        {
+          "id": "email",
+          "label": "Email",
+          "type": "email",
+          "required": true
+        },
+        {
+          "id": "subject",
+          "label": "Subject",
+          "type": "text",
+          "required": true
+        },
+        {
+          "id": "message",
+          "label": "Message",
+          "type": "textarea",
+          "required": true
+        }
+      ],
+      "submitText": "Send Message",
+      "saveToFile": true,
+      "successMessage": "Thank you! Your message has been sent successfully."
+    },
+    "info": {
+      "title": "Contact Information",
+      "items": [
+        {
+          "icon": "map-marker-alt",
+          "title": "Location",
+          "value": "Ventura, California, USA"
+        },
+        {
+          "icon": "envelope",
+          "title": "Email",
+          "value": "zacharynicholasm@gmail.com",
+          "isLink": true,
+          "url": "mailto:zacharynicholasm@gmail.com"
+        },
+        {
+          "icon": "github",
+          "title": "GitHub",
+          "value": "github.com/zachary107c",
+          "isLink": true,
+          "url": "https://github.com/zachary107c"
+        },
+        {
+          "icon": "briefcase",
+          "title": "Upwork",
+          "value": "upwork.com/freelancers/~01c3b0802df106c9fe",
+          "isLink": true,
+          "url": "https://www.upwork.com/freelancers/~01c3b0802df106c9fe"
+        }
+      ],
+      "availability": {
+        "enabled": true,
+        "title": "Availability",
+        "text": "I'm currently available for freelance work and selective full-time opportunities. Feel free to reach out!",
+        "level": "99%",
+        "label": "Current availability: 99%"
+      }
+    }
+  },
+  "footer": {
+    "logo": "<span class=\"text-blue-400 mr-1\">&lt;</span>ZM<span class=\"text-blue-400 ml-1\">/&gt;</span>",
+    "tagline": "Senior Full Stack Developer",
+    "links": [
+      {
+        "text": "About",
+        "url": "#about"
+      },
+      {
+        "text": "Experience",
+        "url": "#experience"
+      },
+      {
+        "text": "Projects",
+        "url": "#projects"
+      },
+      {
+        "text": "Skills",
+        "url": "#skills"
+      },
+      {
+        "text": "Contact",
+        "url": "#contact"
+      }
+    ],
+    "socialLinks": [
+      {
+        "icon": "github",
+        "url": "https://github.com/zachary107c",
+        "ariaLabel": "GitHub profile"
+      },
+      {
+        "icon": "briefcase",
+        "url": "https://www.upwork.com/freelancers/~01c3b0802df106c9fe",
+        "ariaLabel": "Upwork profile"
+      },
+      {
+        "icon": "at",
+        "url": "mailto:zacharynicholasm@gmail.com",
+        "ariaLabel": "Email contact"
+      }
+    ],
+    "copyright": "© 2025 Zachary Nicholas Matsuk. All rights reserved."
   }
+}

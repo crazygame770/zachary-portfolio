@@ -466,6 +466,13 @@
           "title": "Location",
           "value": "Ventura, California, USA"
         },
+        // {
+        //   "icon": "envelope",
+        //   "title": "Email",
+        //   "value": "zacharynicholasm@gmail.com",
+        //   "isLink": true,
+        //   "url": "mailto:zacharynicholasm@gmail.com"
+        // },
         {
           "icon": "github",
           "title": "GitHub",

@@ -1,19 +1,19 @@
 {
   "meta": {
-    "title": "Zachary Nicholas Matsuk | Full Stack Developer",
-    "description": "Zachary Nicholas Matsuk – AI-Powered SaaS Developer and Senior Full Stack Engineer with 18+ years of experience in React.js, Node.js, Python, and AWS",
+    "title": "Zachary Nicholas Matsuk | AI-Powered SaaS Developer",
+    "description": "Zachary Nicholas Matsuk – AI-Powered SaaS Developer and Full Stack Engineer with 18+ years of experience building scalable platforms using React.js, Node.js, Python, and cloud-native tools like AWS.",
     "themeColor": "blue",
     "accentColor": "indigo"
   },
   "profile": {
     "name": "Zachary Nicholas Matsuk",
-    "title": "Senior Full Stack Developer",
+    "title": "AI-Powered SaaS Developer | Full Stack Engineer",
     "location": "Ventura, California, USA",
-    "bio": "Full Stack Developer with 18+ years of experience building scalable, AI-integrated SaaS platforms and MVPs. Expert in React.js, Node.js, Python, and cloud architecture, delivering fast, clean, and secure code for clients worldwide.",
+    "bio": "Developer with 18+ years of experience creating AI-integrated SaaS products and MVPs. I specialize in React.js, Node.js, Python, and serverless cloud architecture, delivering modern web solutions with speed, security, and scale.",
     "avatar": "custom-resume-site-temp/assets/images/profile.jpg"
   },
   "navbar": {
-    "logo": "&lt;RM/&gt;",
+    "logo": "&lt;ZM/&gt;",
     "links": [
       {
         "text": "About",
@@ -44,7 +44,7 @@
   },
   "hero": {
     "greeting": "Hello, I'm",
-    "description": "Specializing in <span class=\"text-blue-600 dark:text-blue-400 font-medium\">React.js</span>, <span class=\"text-blue-600 dark:text-blue-400 font-medium\">Node.js</span>, <span class=\"text-blue-600 dark:text-blue-400 font-medium\">AWS</span> and <span class=\"text-blue-600 dark:text-blue-400 font-medium\">Python</span> with 18+ years of professional experience.",
+    "description": "Building <span class=\"text-blue-600 dark:text-blue-400 font-medium\">AI-powered SaaS platforms</span> with <span class=\"text-blue-600 dark:text-blue-400 font-medium\">React.js</span>, <span class=\"text-blue-600 dark:text-blue-400 font-medium\">Node.js</span>, <span class=\"text-blue-600 dark:text-blue-400 font-medium\">Python</span> and <span class=\"text-blue-600 dark:text-blue-400 font-medium\">AWS</span>. 18+ years delivering full-stack excellence.",
     "cta": {
       "primary": {
         "text": "Get in touch",
@@ -69,6 +69,11 @@
         "icon": "github",
         "url": "https://github.com/zachary107c",
         "ariaLabel": "GitHub profile"
+      },
+      {
+        "icon": "briefcase",
+        "url": "https://www.upwork.com/freelancers/~01c3b0802df106c9fe",
+        "ariaLabel": "Upwork profile"
       },
       {
         "icon": "at",
@@ -494,7 +499,7 @@
   },
   "footer": {
     "logo": "<span class=\"text-blue-400 mr-1\">&lt;</span>ZM<span class=\"text-blue-400 ml-1\">/&gt;</span>",
-    "tagline": "Senior Full Stack Developer",
+    "tagline": "AI-Powered SaaS Developer | Full Stack Engineer",
     "links": [
       {
         "text": "About",
